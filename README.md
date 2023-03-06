@@ -1,0 +1,1 @@
+- Download the ChromeDriver executable from https://chromedriver.chromium.org/downloads based on the version of Google Chrome that you have installed on your machine.
